@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a996bd1f-4ed5-4b75-bfb8-e7cfd45f3024" name="Changes" comment="">
+    <list default="true" id="a996bd1f-4ed5-4b75-bfb8-e7cfd45f3024" name="Changes" comment="Segundo commit">
+      <change afterPath="$PROJECT_DIR$/src/aula33/ExemploArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula33/ExemploHashSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula33/ExemploHshMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula33/ExemploString.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -26,7 +30,9 @@
   &quot;associatedIndex&quot;: 3
 }</component>
   <component name="ProjectId" id="2m1WUu6hMc9KgeV8SS192s1jLZt" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -34,7 +40,11 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.ExemploArrayList.executor": "Run",
+    "Application.ExemploHashSet.executor": "Run",
+    "Application.ExemploHshMap.executor": "Run",
+    "Application.ExemploString.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.aula33.ExemploArrayList.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "detached",
@@ -42,13 +52,39 @@
     "onboarding.tips.debug.path": "C:/Users/carol/IdeaProjects/Terceiro Trimestre certo/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="ExemploArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aula32.ExemploArrayList" />
+  <component name="RunManager" selected="Application.ExemploString">
+    <configuration name="ExemploHashSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aula33.ExemploHashSet" />
       <module name="Terceiro Trimestre certo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="aula32.*" />
+          <option name="PATTERN" value="aula33.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExemploHshMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aula33.ExemploHshMap" />
+      <module name="Terceiro Trimestre certo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="aula33.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExemploString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aula33.ExemploString" />
+      <module name="Terceiro Trimestre certo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="aula33.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -69,10 +105,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="aula33.ExemploArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aula33.ExemploArrayList" />
+      <module name="Terceiro Trimestre certo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="aula33.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ExemploString" />
+        <item itemvalue="Application.ExemploHshMap" />
+        <item itemvalue="Application.ExemploHashSet" />
+        <item itemvalue="Application.aula33.ExemploArrayList" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.ExemploArrayList" />
       </list>
     </recent_temporary>
   </component>
@@ -85,7 +137,20 @@
       <option name="presentableId" value="Default" />
       <updated>1726244584144</updated>
     </task>
+    <task id="LOCAL-00001" summary="Segundo commit">
+      <option name="closed" value="true" />
+      <created>1727454569526</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1727454569526</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Segundo commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Segundo commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
